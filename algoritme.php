@@ -34,11 +34,11 @@ print_r ($nummers);
 
 echo "<br><br>";
 //echo $switch;
-echo $supermegahyperswitchtotaal++;
+echo "Totaal aantal switches: ".$supermegahyperswitchtotaal;
 echo "<br>";
-echo $supermegahyperwhiletotaal;
+echo "Totaal aantal while loops: ".$supermegahyperwhiletotaal;
 echo "<br>";
-echo $supermegahyperfortotaal;
+echo "Totaal aantal for loops : ".$supermegahyperfortotaal;
 
 //
 //foreach ($nummers as $key=>$value){
